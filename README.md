@@ -1,5 +1,5 @@
 ### Hi there 👋
-[/my-first-web-site/index.html][#/my-first-web-site/index.html]
+[/my-first-web-site/index.html](/my-first-web-site/index.html)
 <!--
 **dltkdgns00/dltkdgns00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
